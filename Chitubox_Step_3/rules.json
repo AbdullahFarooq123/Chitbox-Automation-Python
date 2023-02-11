@@ -1,0 +1,81 @@
+{
+  "software_rules": {
+    "old": [
+      "4K_50_",
+      "4K_30_",
+      "Slime_",
+      "Flash_",
+      "Flashnew_",
+      "red"
+    ],
+    "new": [
+      "6K_",
+      "M3_",
+      "Jup_",
+      "8K_"
+    ]
+  },
+  "machine_rules": {
+    "old": {
+      "4K_50_": "Phrozen Mini 4K > Vroom 50um",
+      "4K_30_": "Phrozen Mini 4K > Vroom 30um",
+      "Slime_": "Creality LD-002H > CREALITY 50mikroner slime",
+      "Flash_": "Flash > fungerar 2022 s flash",
+      "Flashnew_": "Flash > fungerar 2022 s flash",
+      "red_30": "Red > red 1234"
+    },
+    "new": {
+      "6K_": "AnyCubic Photon Mono X 6K > Profile",
+      "M3_": "AnyCubic Photon M3 Max > ANYCUBIC Photon M3 Max",
+      "Jup_": "ELEGOO JUPITER > ELEGOO Standard Resin Grey for 0.05mm",
+      "8K_": "Phrozen Sonic Mini 8K > Water-Washable Resin 8k"
+    }
+  },
+  "clicks_locations": {
+    "old": {
+      "updates_close": "0.62,0.27",
+      "profiles": "0.41,0.27",
+      "settings": "0.88,0.55",
+      "settings_close": "0.71,0.20",
+      "slice": "0.91,0.63",
+      "out_of_bounds": "0.46,0.52",
+      "save_cfg": "0.92,0.50",
+      "other_save_cfg": "0.93,0.54",
+      "file_name": "0.59,0.41",
+      "save": "0.57,0.47",
+      "back": "0.89,0.67",
+      "select_all": "0.95,0.16",
+      "delete_all": "0.98,0.15",
+      "Phrozen Mini 4K": "0.35,0.31",
+      "Vroom 30um": "0.41,0.30",
+      "Vroom 50um": "0.41,0.32",
+      "Creality LD-002H": "0.30,0.34",
+      "CREALITY 50mikroner slime": "0.46,0.30",
+      "Flash": "0.32,0.38",
+      "fungerar 2022 s flash": "0.11,0.02"
+    },
+    "new": {
+      "updates_close": "0.63,0.28",
+      "settings": "0.97,0.55",
+      "profiles": "0.39,0.27",
+      "settings_close": "0.78,0.21",
+      "slice": "0.91,0.64",
+      "out_of_bounds": "0.47,0.53",
+      "save_cfg": "0.94,0.49",
+      "other_save_cfg": "0.93,0.54",
+      "file_name": "0.33,0.40",
+      "save": "0.55,0.47",
+      "back": "0.94,0.70",
+      "select_all": "0.95,0.16",
+      "delete_all": "0.99,0.16",
+      "AnyCubic Photon Mono X 6K": "0.25,0.43",
+      "Profile": "0.39,0.29",
+      "AnyCubic Photon M3 Max": "0.24,0.45",
+      "ANYCUBIC Photon M3 Max": "0.35,0.29",
+      "ELEGOO JUPITER": "0.26,0.49",
+      "ELEGOO Standard Resin Grey for 0.05mm": "0.35,0.29",
+      "Phrozen Sonic Mini 8K": "0.25,0.54",
+      "Water-Washable Resin 8k": "0.35,0.29"
+    }
+  }
+}
